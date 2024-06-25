@@ -20,3 +20,24 @@ Output: "evermindnay ouveyay otgay hemtay"
 1. Clone this repository.
 2. Compile the C# code.
 3. Run the program and input an English sentence to see the Pig Latin version.
+
+## Technologies Used
+
+- C#
+- Visual Studio Code
+
+## Contributing
+
+This is a solo project and contributions are not being accepted at this time.
+
+## License
+
+This project is not licensed as it is intended for personal use and not to be made open source.
+
+## About the Developer
+
+I am a student and a beginner in software development. This project was created to as a way for me to understand pig latin and also practice my programming skills simultateously.
+
+## Contact Information
+
+For any questions or support, please reach out via LinkedIn. You can find my LinkedIn profile linked in my GitHub profile.
