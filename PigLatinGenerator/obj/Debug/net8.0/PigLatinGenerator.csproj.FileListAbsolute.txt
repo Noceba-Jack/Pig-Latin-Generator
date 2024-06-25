@@ -1,0 +1,15 @@
+C:\Git\Pig-Latin-Generator\PigLatinGenerator\bin\Debug\net8.0\PigLatinGenerator.exe
+C:\Git\Pig-Latin-Generator\PigLatinGenerator\bin\Debug\net8.0\PigLatinGenerator.deps.json
+C:\Git\Pig-Latin-Generator\PigLatinGenerator\bin\Debug\net8.0\PigLatinGenerator.runtimeconfig.json
+C:\Git\Pig-Latin-Generator\PigLatinGenerator\bin\Debug\net8.0\PigLatinGenerator.dll
+C:\Git\Pig-Latin-Generator\PigLatinGenerator\bin\Debug\net8.0\PigLatinGenerator.pdb
+C:\Git\Pig-Latin-Generator\PigLatinGenerator\obj\Debug\net8.0\PigLatinGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Pig-Latin-Generator\PigLatinGenerator\obj\Debug\net8.0\PigLatinGenerator.AssemblyInfoInputs.cache
+C:\Git\Pig-Latin-Generator\PigLatinGenerator\obj\Debug\net8.0\PigLatinGenerator.AssemblyInfo.cs
+C:\Git\Pig-Latin-Generator\PigLatinGenerator\obj\Debug\net8.0\PigLatinGenerator.csproj.CoreCompileInputs.cache
+C:\Git\Pig-Latin-Generator\PigLatinGenerator\obj\Debug\net8.0\PigLatinGenerator.sourcelink.json
+C:\Git\Pig-Latin-Generator\PigLatinGenerator\obj\Debug\net8.0\PigLatinGenerator.dll
+C:\Git\Pig-Latin-Generator\PigLatinGenerator\obj\Debug\net8.0\refint\PigLatinGenerator.dll
+C:\Git\Pig-Latin-Generator\PigLatinGenerator\obj\Debug\net8.0\PigLatinGenerator.pdb
+C:\Git\Pig-Latin-Generator\PigLatinGenerator\obj\Debug\net8.0\PigLatinGenerator.genruntimeconfig.cache
+C:\Git\Pig-Latin-Generator\PigLatinGenerator\obj\Debug\net8.0\ref\PigLatinGenerator.dll
