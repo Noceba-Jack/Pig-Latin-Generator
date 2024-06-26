@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PigLatinGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c30cf588364a671721c63001a823129a01f97425")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5389c7d9fb6db589025abc0f40772bb2b033c91")]
 [assembly: System.Reflection.AssemblyProductAttribute("PigLatinGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PigLatinGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
